@@ -1,0 +1,20 @@
+{
+  "author_names": "Simon Billinge, Adib Kabir",
+  "author_emails": "sbillinge@ucsb.edu, adibkabir@ucsb.edu",
+  "maintainer_names": "Simon Billinge, Adib Kabir",
+  "maintainer_emails": "sbillinge@ucsb.edu, adibkabir@ucsb.edu",
+  "maintainer_github_usernames": "sbillinge",
+  "contributors": "Contributors to the diffpy.diffchooser package",
+  "project_name": "diffpy.diffchooser",
+  "license_holders": "Contributors to the diffpy.diffchooser package",
+  "github_username_or_orgname": "diffpy",
+  "github_repo_name": "diffpy.diffchooser",
+  "conda_pypi_package_dist_name": "diffpy.diffchooser",
+  "package_dir_name": "diffpy.diffchooser",
+  "project_short_description": "Screen protein diffraction images for well diffracting samples",
+  "project_keywords": "diffraction, protein crystallography, x-ray, ice ring",
+  "minimum_supported_python_version": "3.12",
+  "maximum_supported_python_version": "3.14",
+  "project_needs_c_code_compiled": "No",
+  "project_has_gui_tests": "No"
+}
